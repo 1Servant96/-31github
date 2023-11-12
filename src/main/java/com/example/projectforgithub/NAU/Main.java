@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Third commit for now");
         System.out.println("Comeback, today was pretty useful day, learned how to use adp and click the hours" +
                 "Wondering to help people.");
+        System.out.println("Reincarnation, hope exists");
     }
 }
