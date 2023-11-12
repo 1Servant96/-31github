@@ -9,5 +9,6 @@ public class Main {
                 "Wondering to help people.");
         System.out.println("Reincarnation, hope exists");
         System.out.println("Today is the happy birthday of @dtaalai, creator of this challenge, to whom why this repository exists.");
+        System.out.println("Fixed the commit from 3nd to 3rd.");
     }
 }
