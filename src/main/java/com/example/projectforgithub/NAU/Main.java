@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Today is the happy birthday of @dtaalai, creator of this challenge, to whom why this repository exists.");
         System.out.println("Fixed the commit from 3nd to 3rd.");
         System.out.println("Today is monday, great");
+        System.out.println("Hope to eat wings today, but it is not a purpose, it's just a bonus to quran class");
     }
 }
