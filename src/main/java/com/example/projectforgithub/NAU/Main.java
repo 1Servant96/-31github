@@ -13,5 +13,7 @@ public class Main {
         System.out.println("Today is monday, great");
         System.out.println("Hope to eat wings today, but it is not a purpose, it's just a bonus to quran class");
         System.out.println("Grateful to Creator, it was nice day from morning, subhanalla");
+        System.out.println("Today is the Thursday, after ~10 min will be Friday, because of" +
+                "dusk");
     }
 }
