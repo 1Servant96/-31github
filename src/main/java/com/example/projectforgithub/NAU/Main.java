@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Today is the Thursday, after ~10 min will be Friday, because of" +
                 "dusk");
         System.out.println("How are you ? ");
+        System.out.println("The world is the wonderful place. But ahira is better of course )");
     }
 }
