@@ -19,5 +19,7 @@ public class Main {
         System.out.println("The world is the wonderful place. But ahira is better of course )");
         System.out.println("Today was a good session from @dtaalai");
         System.out.println("Here we go");
+        System.out.println("I suggest to read book \"World of soul\" by S.Alyautdinov. It is a book about: ");
+        System.out.println("I want to learn physics! Please! And know knowledge of hardware and software");
     }
 }
