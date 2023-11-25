@@ -22,5 +22,9 @@ public class Main {
         System.out.println("I suggest to read book \"World of soul\" by S.Alyautdinov. It is a book about: ");
         System.out.println("I want to learn physics! Please! And know knowledge of hardware and software");
         System.out.println("Never give up my friend.");
+        System.out.println("Today watched the podcast on YouTube on 'Outtalent' channel" +
+                "newest record with 21 years old game developer from Osh. Really cool, really" +
+                "proud of him. ");
+
     }
 }
