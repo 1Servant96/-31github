@@ -27,5 +27,8 @@ public class Main {
                 "proud of him. ");
         System.out.println("Inshalla, everything will be good. Now is also not bad, shugur" +
                 ", be grateful to God and he will give more. in quran some verses about that.");
+        System.out.println("What I told yesterday on 28th line is true. Really, I mean just try it" +
+                "from pure heart. And by the way I watched today podcast on Jaratman on Youtube," +
+                "where guest was Taalai Djumabaev. Really good, suggest to a lot of people.");
     }
 }
