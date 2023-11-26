@@ -25,6 +25,7 @@ public class Main {
         System.out.println("Today watched the podcast on YouTube on 'Outtalent' channel" +
                 "newest record with 21 years old game developer from Osh. Really cool, really" +
                 "proud of him. ");
-
+        System.out.println("Inshalla, everything will be good. Now is also not bad, shugur" +
+                ", be grateful to God and he will give more. in quran some verses about that.");
     }
 }
