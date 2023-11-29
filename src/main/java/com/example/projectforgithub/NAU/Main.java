@@ -32,5 +32,6 @@ public class Main {
                 "where guest was Taalai Djumabaev. Really good, suggest to a lot of people.");
         System.out.println("Today got soul inspiration from Asym Bey, you can learn how to read quran properly in a year," +
                 "of course if you continue in a right way. Participating, makind odev and don't make non-sense");
+        System.out.println("Today I missed a person,and not only");
     }
 }
