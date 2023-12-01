@@ -36,5 +36,6 @@ public class Main {
         System.out.println("I need your help. The Almighty and most Merciful");
         System.out.println("I messaged to missed person, but this person wasn't in a mode I think, but who knows." +
                 "Today we had a dog therapy and STUDY-A-THON, was interesting");
+        System.out.println("Today is Juma, the king of the week. Juma mubarak !");
     }
 }
