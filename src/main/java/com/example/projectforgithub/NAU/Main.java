@@ -38,5 +38,7 @@ public class Main {
                 "Today we had a dog therapy and STUDY-A-THON, was interesting");
         System.out.println("Today is Juma, the king of the week. Juma mubarak !");
         System.out.println("peace");
+        System.out.println("Beginning Saturday's magrib till Sunday's Fajr was" +
+                "Iticaf");
     }
 }
