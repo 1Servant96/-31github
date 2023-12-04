@@ -40,5 +40,6 @@ public class Main {
         System.out.println("peace");
         System.out.println("Beginning Saturday's magrib till Sunday's Fajr was" +
                 "Iticaf");
+        System.out.println("Allah, gave the calmness yesterday after eating pizza just was going to turn off");
     }
 }
