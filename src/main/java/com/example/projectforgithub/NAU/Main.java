@@ -43,5 +43,6 @@ public class Main {
         System.out.println("Allah, gave the calmness yesterday after eating pizza just was going to turn off");
         System.out.println("Today ate one of the paradise's fruit pomegranate and somehow helped to a person");
         System.out.println("By the Mercy of AlMighty today I won chess tournament in university. Grateful");
+        System.out.println("Today is Thursday. Take everything from that day. Squeeze max from it");
     }
 }
