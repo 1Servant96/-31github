@@ -50,7 +50,7 @@ public class Main {
                 "octal, and binary. In octal actually you use: '0' in front of number," +
                 "and '0b' in front of binary, by the way interesting about that sign'\\'," +
                 "you can use in a String that sign to show octal number for example.");
-
+        System.out.println("Today went to Library and invited again to dinner. Subhanalla");
 
     }
 }
