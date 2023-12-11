@@ -46,5 +46,11 @@ public class Main {
         System.out.println("Today is Thursday. Take everything from that day. Squeeze max from it");
         System.out.println("The king of the week. Friday. Grateful to Allah");
         System.out.println("Ziya abi prepared kahvalti, so cool, alhamdullilla");
+        System.out.println("God shows his mercy, amazing. Also learned about encouding like" +
+                "octal, and binary. In octal actually you use: '0' in front of number," +
+                "and '0b' in front of binary, by the way interesting about that sign'\\'," +
+                "you can use in a String that sign to show octal number for example.");
+
+
     }
 }
