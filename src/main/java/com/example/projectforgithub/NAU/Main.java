@@ -51,6 +51,7 @@ public class Main {
                 "and '0b' in front of binary, by the way interesting about that sign'\\'," +
                 "you can use in a String that sign to show octal number for example.");
         System.out.println("Today went to Library and invited again to dinner. Subhanalla");
+        System.out.println("Mashalla. Today is Quran class, and also we took products from Wallmart");
 
     }
 }
