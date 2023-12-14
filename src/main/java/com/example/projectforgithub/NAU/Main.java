@@ -52,6 +52,7 @@ public class Main {
                 "you can use in a String that sign to show octal number for example.");
         System.out.println("Today went to Library and invited again to dinner. Subhanalla");
         System.out.println("Mashalla. Today is Quran class, and also we took products from Wallmart");
+        System.out.println("Alhamdullila[Today day described in daily notes of trillioner]. You can check it there.");
 
     }
 }
