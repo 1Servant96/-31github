@@ -53,6 +53,7 @@ public class Main {
         System.out.println("Today went to Library and invited again to dinner. Subhanalla");
         System.out.println("Mashalla. Today is Quran class, and also we took products from Wallmart");
         System.out.println("Alhamdullila[Today day described in daily notes of trillioner]. You can check it there.");
+        System.out.println("Today just walked and made press. Also got info about hackathon from Mukhammed. Subhanalla");
 
     }
 }
